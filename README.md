@@ -1,2 +1,2 @@
 # Deep_Learning_Course
-Pymasery Deep Learning Course Codes
+Pymaserycourse.com Deep Learning Course Codes
